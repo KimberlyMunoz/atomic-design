@@ -352,7 +352,7 @@ But why? After all, isn't a style guide merely an internal resource to help your
 
 Putting your style guide behind a login or firewall reduces visibility and adds an unnecessary burden for your team and partners, which limits the resource's effectiveness and potential. And the fears about giving away your trade secrets are completely unfounded. These are UI patterns, not nuclear codes.
 
-{% include figure.html src="../images/content/styleguides-examples.png" caption="Stlyeguides.io rounds up over 150 public-facing style guides from organizations across the world." %}
+{% include figure.html src="../images/content/styleguides-examples.png" caption="Styleguides.io rounds up over 150 public-facing style guides from organizations across the world." %}
 
 In addition to making important documentation easier to access, a public style guide **helps create organizational accountability**. Publishing your style guide demonstrates your organization's commitment to the design system, which creates a helpful bit of pressure to keep it an up-to-date and useful resource. 
 
